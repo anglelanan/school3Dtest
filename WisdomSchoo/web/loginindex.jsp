@@ -42,7 +42,7 @@
     <div id="edtsd" class="btn"><p><i class="icon iconfont icon-shouye2 fontdhl"></i>去盖</p></div>
     <div id="jiagai" class="btn"><p><i class="icon iconfont icon-shouye2 fontdhl"></i>加盖</p></div>
     <div id="intro" class="btn"><p><i class="icon iconfont icon-icon fontdhl"></i>介绍</p></div>
-    <div id="bianqian" class="btn"><p><i class="icon iconfont icon-icon1 fontdhl"></i>便签</p></div>
+    <div id="bianqian" class="btn"><p><i class="icon iconfont icon-icon1 fontdhl"></i>nihao</p></div>
     <div id="shaixuan" class="btn"><p><i class="icon iconfont icon-icon2 fontdhl"></i>筛选</p></div>
     <div id="gaoliang" class="btn"><p><i class="icon iconfont icon-shouye4 fontdhl"></i>高亮</p></div>
     <div id="tianjia" class="btn"><p><i class="icon iconfont icon-shouye4 fontdhl"></i>加桌</p></div>
